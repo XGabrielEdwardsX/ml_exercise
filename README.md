@@ -1,6 +1,6 @@
 # Explicación del proyecto
 
-El objetivo principal de este proyecto es desarrollar un modelo de Machine Learning que prediga si un producto en una plataforma de e-commerce es nuevo o usado. Este proyecto utiliza datos de productos listados en la plataforma, que incluyen diversas características como el precio, las cantidades disponibles, el tipo de producto, el modo de compra y otros atributos relacionados con la publicación del producto.
+El objetivo principal de este proyecto es desarrollar un modelo de Machine Learning que prediga si un producto en la plataforma de mercado libre es nuevo o usado. Este proyecto utiliza datos de productos listados en la plataforma, que incluyen diversas características como el precio, las cantidades disponibles, el tipo de producto, el modo de compra y otros atributos relacionados con la publicación del producto. (48 columnas en total)
 
 A través de la Exploración y Limpieza de Datos (EDA), se seleccionaron las características más relevantes y se transformaron para asegurar que fueran adecuadas para alimentar los modelos de clasificación. Posteriormente, se entrenaron varios modelos (Logistic Regression, Random Forest, XGBoost, Decision Tree) para determinar cuál ofrece el mejor rendimiento en términos de precisión, AUC y F1.
 
